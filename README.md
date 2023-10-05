@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I´m a future frontend and mobile developer with a passion for design and making things pretty 🌸 
-Prefer iOS programming (Swift) and React.js. 
+I´m currently learning Swift and Vue.
 When I'm not coding, I enjoy hiking, knitting, reading, and cooking.
 
 <!--

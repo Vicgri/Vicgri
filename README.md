@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vicgri&show_icons=true&theme=pink"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vicgri&layout=compact&theme=pink"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vicgri&theme=pink"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vicgri&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vicgri&layout=compact&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vicgri&theme=dark"/>

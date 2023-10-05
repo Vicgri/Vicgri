@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I´m a future frontend and mobile developer with a passion for design and making things pretty 🌸 
+Prefer iOS programming (Swift) and React.js. 
+When I'm not coding, I enjoy hiking, knitting, reading, and cooking.
+
 <!--
 **Vicgri/Vicgri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +20,6 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vicgri&show_icons=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vicgri&layout=compact&theme=dark"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vicgri&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vicgri&show_icons=true&theme=pink"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vicgri&layout=compact&theme=pink"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vicgri&theme=pink"/>

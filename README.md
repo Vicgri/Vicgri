@@ -2,7 +2,8 @@
 
 I´m a future frontend and mobile developer with a passion for design and making things pretty 🌸 
 I´m currently learning Swift and Vue.
-When I'm not coding, I enjoy hiking, knitting, reading, and cooking.
+
+
 
 <!--
 **Vicgri/Vicgri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

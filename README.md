@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I´m a future frontend and mobile developer with a passion for design and making things pretty 🌸 
+I´m a future frontend and mobile developer with a passion for design and programming 🌸 
 I´m currently learning Swift and Vue.
 
 

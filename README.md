@@ -1,7 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Victoria</h1>
 
-- 🔭 I’m currently working on **my bachelor project for TV2 Sporten**
+- 🔭 I’m currently working on **my bachelor project for TV2 Sporten** 
+
+- 💬 Ask me about **Anything (I'm good at google)**
+
+- 📫 How to reach me **victoria.grimen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
